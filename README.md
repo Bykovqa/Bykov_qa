@@ -1,1 +1,0 @@
-# Bykov_qa

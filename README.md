@@ -13,3 +13,9 @@
 ---
 
 [Сертификат о прохождении курсов (ENG)](https://drive.google.com/file/d/1pbwi1xhU2qhIeQD8nDXW3B9TiGc_JAJC/view?usp=sharing)
+
+---
+
+[Пример Баг-репортов](https://trello.com/b/4TsizdEF/%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B)
+
+Все баги найдены в процессе прохождения курсов или из тестовых заданий для собеседований. 
